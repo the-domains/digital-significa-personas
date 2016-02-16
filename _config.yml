@@ -1,0 +1,28 @@
+name: Digital Significa Personas
+favicon: null
+layout_spectrum: 0.3600539283361286
+typography_spectrum: 0.1729559504892677
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2899404796771705
+  lightness: 0.980254722526297
+  saturation: 0.003943767165765166
+  rhythmicContrast: 0.20987171586602926
+purpose: []
